@@ -1,4 +1,4 @@
 #printing hello
 print("hello")
 
-print("this is basic python program")
+print("this is a basic python program")
